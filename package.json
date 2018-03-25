@@ -1,6 +1,7 @@
 {
   "name": "@polymer/iron-resizable-behavior",
   "private": true,
+  "version": "0.0.1",
   "description": "Coordinates the flow of resizeable elements",
   "repository": {
     "type": "git",
